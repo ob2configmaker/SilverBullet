@@ -5,7 +5,7 @@ The Plugin System was released with version 1.2.0. You can find a sample Plugin 
 # SilverBullet
 SilverBullet is a webtesting suite that allows to perform requests towards a target webapp and offers a lot of tools to work with the results. This software can be used for scraping and parsing data, automated pentesting, unit testing through selenium and much more.
 
-
+![](https://github.com/ob2configmaker/SilverBullet/assets/169589618/c02bdda2-927a-45e7-a033-1dd1a1e79497)
 
 
 # Donate
