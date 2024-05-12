@@ -7,6 +7,8 @@ SilverBullet is a webtesting suite that allows to perform requests towards a tar
 
 ![](https://github.com/ob2configmaker/SilverBullet/assets/169589618/c02bdda2-927a-45e7-a033-1dd1a1e79497)
 
+# SilverBullet Dependencies
+[Requirement: C++ 2015 Redistributable x86/x64](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
 
 # Donate
 
