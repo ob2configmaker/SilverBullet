@@ -12,7 +12,7 @@ SilverBullet is a webtesting suite that allows to perform requests towards a tar
 
 If you like this software, consider making a donation to the developer. Thank you!
 
-    BTC: **1A9fPuTezLt4L8MmCEjvE1GKP6Z59zPovg**
+   # BTC: 1A9fPuTezLt4L8MmCEjvE1GKP6Z59zPovg
 
 
 # Credits
